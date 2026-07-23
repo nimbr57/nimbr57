@@ -21,10 +21,9 @@
 
 ## 📊 GitHub 統計
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimbr57&show_icons=true&theme=radium" alt="nimbr57's GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimbr57&layout=compact&theme=radium" alt="Top Languages" width="48%">
-</div>
+[![nimbr57's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimbr57&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nimbr57&layout=compact&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 連絡先・SNS
 
